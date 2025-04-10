@@ -1,0 +1,8 @@
+pyautogui
+pyperclip
+pillow
+openai
+google-generativeai
+opencv-python
+psutil
+pywin32
